@@ -149,6 +149,7 @@ namespace SolidsoftReply.BizTalk.Wcf.Security
             {
                 return;
             }
+
             var username = this.Username;
             var domain = this.Domain;
 
